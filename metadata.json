@@ -1,0 +1,5 @@
+{
+  "name": "Flip 7 Score Tracker",
+  "description": "Un gestionnaire de score simple et persistant pour vos parties de Flip 7 à 3 joueurs.",
+  "requestFramePermissions": []
+}
